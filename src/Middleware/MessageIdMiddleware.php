@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Vim\MessengerTool\Middleware;
+namespace Vim\MessengerLock\Middleware;
 
 use Symfony\Component\Messenger\Envelope;
 use Symfony\Component\Messenger\Middleware\MiddlewareInterface;
