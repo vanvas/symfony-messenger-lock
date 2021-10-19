@@ -1,6 +1,6 @@
 {
   "name": "vim/symfony-messenger-lock",
-  "version" : "1.0.1",
+  "version" : "1.0.2",
   "type": "symfony-bundle",
   "keywords": [
     "symfony-messenger-lock",
